@@ -77,8 +77,8 @@ function createArticleCard(article) {
 
     card.innerHTML = `
     <div class="card-header">
-      <span class="source-badge ${article.source}">
-        <span class="source-dot ${article.source === 'bens_bites' ? 'bens' : 'rundown'}"></span>
+        <span class="source-badge ${article.source}">
+        <span class="source-dot ${article.source}"></span>
         ${article.sourceName}
       </span>
       <button class="bookmark-btn ${saved ? 'saved' : ''}" data-id="${article.id}" title="${saved ? 'Remove bookmark' : 'Save article'}" id="bookmark-${article.id}">
@@ -270,7 +270,7 @@ function setupEventListeners() {
 
             // Update page title
             const title = document.getElementById('page-title');
-            title.textContent = activeView === 'saved' ? 'Saved Articles' : "Today's AI Pulse";
+            title.textContent = activeView === 'saved' ? 'Saved Articles' : "Today's POD Pulse";
 
             renderArticles();
         });

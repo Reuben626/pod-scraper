@@ -1,28 +1,278 @@
 [
   {
-    "id": "fd4e08a3f7a0b38d",
-    "title": "Models on the march",
-    "summary": "50M paying consumers for ChatGPT",
-    "url": "https://www.bensbites.com/p/models-on-the-march",
-    "source": "bens_bites",
-    "sourceName": "Ben's Bites",
-    "author": null,
-    "publishedAt": "2026-03-03T14:03:25+00:00",
-    "fetchedAt": "2026-03-04T00:55:02.649250+00:00",
-    "categories": [],
+    "id": "1db470970ef97605",
+    "title": "Leading tools for automating Amazon dropshipping",
+    "summary": "Discover the leading tools for automating Amazon dropshipping – from order fulfillment and inventory management to product research and repricing.",
+    "url": "https://www.printful.com/blog/leading-tools-for-automating-amazon-dropshipping",
+    "source": "printful",
+    "sourceName": "Printful",
+    "author": "Una Berzina-Pudule",
+    "publishedAt": "2026-03-03T20:07:30+00:00",
+    "fetchedAt": "2026-03-04T17:18:36.446262+00:00",
+    "categories": [
+      "Beginner's handbook"
+    ],
     "isSaved": false
   },
   {
-    "id": "f48a14a0489080e7",
-    "title": "Supreme Court ducks AI copyright question",
-    "summary": "PLUS: Transcribe any video for free with this local AI",
-    "url": "https://www.therundown.ai/p/supreme-court-ducks-ai-copyright-question",
-    "source": "the_rundown_ai",
-    "sourceName": "The Rundown AI",
-    "author": "Zach Mink",
-    "publishedAt": "2026-03-03T10:00:00+00:00",
-    "fetchedAt": "2026-03-04T00:55:03.339952+00:00",
-    "categories": [],
+    "id": "6335584ea2ddb07a",
+    "title": "How to Improve Your Etsy Shop: 10 Strategic Updates to Boost Sales",
+    "summary": "A strategic “spring clean” of your Etsy Shop can prime your listings, workflow, and marketing for the next rush. The post How to Improve Your Etsy Shop: 10 Strategic Updates to Boost Sales appeared first on eRank Help .",
+    "url": "https://help.erank.com/blog/10-tips-to-spring-clean-your-etsy-shop-boost-sales/",
+    "source": "erank",
+    "sourceName": "eRank",
+    "author": "Laura Cronin",
+    "publishedAt": "2026-03-03T11:00:00+00:00",
+    "fetchedAt": "2026-03-04T17:18:38.794011+00:00",
+    "categories": [
+      "Blog",
+      "Related Posts",
+      "SEO Tips",
+      "Analytics",
+      "Etsy",
+      "Growing Your Business",
+      "Listing Optimization",
+      "Spring"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "dfdec7a8b52d77d5",
+    "title": "NextGenModeling Case Study",
+    "summary": "Discover how Justin turned $700, a 3D printer, and no e-commerce experience into a thriving Etsy shop. In under two years, NextGenModeling scaled to the top 2.5% of sellers with 5,000+ sales—all through data-driven SEO and smart strategies. The post NextGenModeling Case Study appeared first on eRank Help .",
+    "url": "https://help.erank.com/blog/nextgenmodeling-etsy-seo-success-story/",
+    "source": "erank",
+    "sourceName": "eRank",
+    "author": "Sophie Ronzel",
+    "publishedAt": "2026-03-02T11:00:00+00:00",
+    "fetchedAt": "2026-03-04T17:18:38.794011+00:00",
+    "categories": [
+      "Blog",
+      "eRank Guide",
+      "Etsy",
+      "Getting Started",
+      "Keyword Research",
+      "Search Visibility"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "82097d6b546b9890",
+    "title": "Ryan Hogue stopped trading time for money and built scalable brands",
+    "summary": "See how Ryan Hogue went from web developer to entrepreneur by building a thriving print-on-demand business with Printful, one smart move at a time.",
+    "url": "https://www.printful.com/blog/ryan-hogue-success-story",
+    "source": "printful",
+    "sourceName": "Printful",
+    "author": "Anita Njoki",
+    "publishedAt": "2026-02-27T10:37:55+00:00",
+    "fetchedAt": "2026-03-04T17:18:36.446262+00:00",
+    "categories": [
+      "Customer success stories"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "731e831a6f5b2c23",
+    "title": "18 Best Redbubble alternatives for Print on Demand in 2026",
+    "summary": "Looking for Redbubble alternatives? Explore top print-on-demand sites like Printful, Printify, Gelato, and more to boost your profits.",
+    "url": "https://www.printful.com/blog/redbubble-alternatives",
+    "source": "printful",
+    "sourceName": "Printful",
+    "author": "Maisha Rachmat",
+    "publishedAt": "2026-02-27T08:30:33+00:00",
+    "fetchedAt": "2026-03-04T17:18:36.446262+00:00",
+    "categories": [
+      "Style &amp; trends"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "61c04d2a19a6554a",
+    "title": "10 Must-try Mother's Day marketing ideas to boost seasonal revenue",
+    "summary": "Discover proven Mother’s Day marketing ideas to attract customers, increase sales, and build a high-converting campaign with Printful.",
+    "url": "https://www.printful.com/blog/how-mothers-day-can-help-grow-your-store",
+    "source": "printful",
+    "sourceName": "Printful",
+    "author": "Maisha Rachmat",
+    "publishedAt": "2026-02-27T03:22:00+00:00",
+    "fetchedAt": "2026-03-04T17:18:36.446262+00:00",
+    "categories": [
+      "Marketing tips"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "8bb85d63fe9df340",
+    "title": "How to Sell Print on Demand on Etsy in 2026: A Beginner’s Guide",
+    "summary": "Learn how to sell print on demand on Etsy in 2026. Step-by-step beginner guide to suppliers, listings, SEO, and marketing basics. The post How to Sell Print on Demand on Etsy in 2026: A Beginner’s Guide appeared first on eRank Help .",
+    "url": "https://help.erank.com/blog/7-steps-to-selling-on-etsy-with-printifys-print-on-demand/",
+    "source": "erank",
+    "sourceName": "eRank",
+    "author": "Laura Cronin",
+    "publishedAt": "2026-02-26T11:00:00+00:00",
+    "fetchedAt": "2026-03-04T17:18:38.794011+00:00",
+    "categories": [
+      "Blog",
+      "eRank Guide",
+      "Related Posts",
+      "Etsy",
+      "Getting Started",
+      "Print on Demand"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "7a4f2167daecc012",
+    "title": "What are the best embroidery products to sell online?",
+    "summary": "Discover what are the best embroidery products to sell online and how to customize them with Printful for global delivery with no minimums.",
+    "url": "https://www.printful.com/blog/best-embroidery-products-to-sell",
+    "source": "printful",
+    "sourceName": "Printful",
+    "author": "Baiba Blain",
+    "publishedAt": "2026-02-25T16:06:29+00:00",
+    "fetchedAt": "2026-03-04T17:18:36.446262+00:00",
+    "categories": [
+      "Style &amp; trends"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "5bc344562af61c12",
+    "title": "Mother’s Day Gift Trends in 2026: What Etsy Sellers Need to Know",
+    "summary": "Discover the top Mother’s Day gift trends for 2026, including colors, categories, and buyer behavior to help Etsy sellers improve their strategy. The post Mother’s Day Gift Trends in 2026: What Etsy Sellers Need to Know appeared first on eRank Help .",
+    "url": "https://help.erank.com/blog/etsy-mothers-day-gift-trends-2026/",
+    "source": "erank",
+    "sourceName": "eRank",
+    "author": "Patricia Watt",
+    "publishedAt": "2026-02-24T13:23:12+00:00",
+    "fetchedAt": "2026-03-04T17:18:38.794011+00:00",
+    "categories": [
+      "Blog",
+      "Etsy",
+      "Growing Your Business",
+      "Shopping Events",
+      "Spring"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "d4f73d0a31f061d4",
+    "title": "eBay Trending Searches: Latest Updates!",
+    "summary": "Find out what January's Top 500 keywords reveal about what products are selling best on eBay now. The post eBay Trending Searches: Latest Updates! appeared first on eRank Help .",
+    "url": "https://help.erank.com/blog/ebay-trending-searches-latest-updates/",
+    "source": "erank",
+    "sourceName": "eRank",
+    "author": "Jan Cal",
+    "publishedAt": "2026-02-17T14:16:39+00:00",
+    "fetchedAt": "2026-03-04T17:18:38.794011+00:00",
+    "categories": [
+      "Blog",
+      "SEO Trends",
+      "ebay trends",
+      "selling best on eBay now",
+      "top ebay searches",
+      "what to sell on ebay"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "d338c5b0cb277cf9",
+    "title": "Amazon’s Top Keywords: Latest Updates!",
+    "summary": "Discover which of this month's Top 500 keywords are the products that are selling best on Amazon now! The post Amazon’s Top Keywords: Latest Updates! appeared first on eRank Help .",
+    "url": "https://help.erank.com/blog/trend-report/amazons-top-keywords-latest-updates/",
+    "source": "erank",
+    "sourceName": "eRank",
+    "author": "Jan Cal",
+    "publishedAt": "2026-02-15T18:14:01+00:00",
+    "fetchedAt": "2026-03-04T17:18:38.794011+00:00",
+    "categories": [
+      "Blog",
+      "SEO Trends",
+      "Amazon trending products",
+      "Amazon's most popular products",
+      "what to sell on Amazon",
+      "what's selling best on Amazon now"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "88e32258cd518e87",
+    "title": "Australia’s Top Etsy Keywords: Latest Updates!",
+    "summary": "Discover which of Australia's top Etsy keywords are climbing fastest. Then see which of your Top 250 products are selling best now. The post Australia’s Top Etsy Keywords: Latest Updates! appeared first on eRank Help .",
+    "url": "https://help.erank.com/blog/australias-top-etsy-keywords-latest-updates/",
+    "source": "erank",
+    "sourceName": "eRank",
+    "author": "Jan Cal",
+    "publishedAt": "2026-02-12T16:12:35+00:00",
+    "fetchedAt": "2026-03-04T17:18:38.794011+00:00",
+    "categories": [
+      "Blog",
+      "SEO Trends",
+      "highest trending etsy searches",
+      "top etsy searches",
+      "what to sell on etsy",
+      "what’s selling best on Etsy"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "e25c90e856343753",
+    "title": "Canada’s Top Etsy Keywords: Latest Updates!",
+    "summary": "Here's what Canada’s Etsy shoppers are searching for now The post Canada’s Top Etsy Keywords: Latest Updates! appeared first on eRank Help .",
+    "url": "https://help.erank.com/blog/trend-report/canadas-top-etsy-keywords-latest-updates/",
+    "source": "erank",
+    "sourceName": "eRank",
+    "author": "Jan Cal",
+    "publishedAt": "2026-02-10T14:07:51+00:00",
+    "fetchedAt": "2026-03-04T17:18:38.794011+00:00",
+    "categories": [
+      "Blog",
+      "SEO Trends",
+      "highest trending etsy searches",
+      "top etsy searches",
+      "what to sell on etsy",
+      "what's selling best on Etsy"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "362708c07498df2b",
+    "title": "The UK’s Top Etsy Keywords: Latest Updates!",
+    "summary": "Here's what the UK's Etsy shoppers are searching for now! The post The UK’s Top Etsy Keywords: Latest Updates! appeared first on eRank Help .",
+    "url": "https://help.erank.com/blog/the-uks-top-etsy-keywords-latest-updates/",
+    "source": "erank",
+    "sourceName": "eRank",
+    "author": "Jan Cal",
+    "publishedAt": "2026-02-07T19:55:44+00:00",
+    "fetchedAt": "2026-03-04T17:18:38.794011+00:00",
+    "categories": [
+      "Blog",
+      "SEO Trends",
+      "highest trending etsy searches",
+      "top etsy searches",
+      "what to sell on etsy",
+      "what's selling best on Etsy"
+    ],
+    "isSaved": false
+  },
+  {
+    "id": "510910ed4a36517e",
+    "title": "Top Keywords on Etsy Now",
+    "summary": "Here's what Etsy's US shoppers are searching for now. The post Top Keywords on Etsy Now appeared first on eRank Help .",
+    "url": "https://help.erank.com/blog/top-keywords-on-etsy/",
+    "source": "erank",
+    "sourceName": "eRank",
+    "author": "Jan Cal",
+    "publishedAt": "2026-02-05T18:48:58+00:00",
+    "fetchedAt": "2026-03-04T17:18:38.794011+00:00",
+    "categories": [
+      "Blog",
+      "SEO Trends",
+      "most searched keywords on etsy",
+      "popular search terms",
+      "top etsy searches",
+      "what to sell on etsy"
+    ],
     "isSaved": false
   }
 ]

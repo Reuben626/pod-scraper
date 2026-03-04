@@ -45,8 +45,10 @@
   --glass-border: rgba(255, 255, 255, 0.08);
 
   /* Source Colors */
-  --source-bens: #F97316;
-  --source-rundown: #22C55E;
+  --source-etsy: #F97316;
+  --source-erank: #0891B2;
+  --source-printful: #CC3333;
+  --source-printify: #22C55E;
 
   /* Shadows */
   --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
@@ -435,12 +437,20 @@ a:hover {
   border-radius: 50%;
 }
 
-.source-dot.bens {
-  background: var(--source-bens);
+.source-dot.etsy {
+  background: var(--source-etsy);
 }
 
-.source-dot.rundown {
-  background: var(--source-rundown);
+.source-dot.erank {
+  background: var(--source-erank);
+}
+
+.source-dot.printful {
+  background: var(--source-printful);
+}
+
+.source-dot.printify {
+  background: var(--source-printify);
 }
 
 /* ─── Stats Bar ──────────────────────────────────────────────── */
@@ -568,13 +578,27 @@ a:hover {
   flex-shrink: 0;
 }
 
-.source-badge.bens_bites {
+.source-badge.bens_bites,
+.source-badge.etsy {
   background: rgba(249, 115, 22, 0.12);
   color: #FB923C;
   border: 1px solid rgba(249, 115, 22, 0.2);
 }
 
-.source-badge.the_rundown_ai {
+.source-badge.erank {
+  background: rgba(8, 145, 178, 0.12);
+  color: #22D3EE;
+  border: 1px solid rgba(8, 145, 178, 0.2);
+}
+
+.source-badge.printful {
+  background: rgba(204, 51, 51, 0.12);
+  color: #F87171;
+  border: 1px solid rgba(204, 51, 51, 0.2);
+}
+
+.source-badge.the_rundown_ai,
+.source-badge.printify {
   background: rgba(34, 197, 94, 0.12);
   color: #4ADE80;
   border: 1px solid rgba(34, 197, 94, 0.2);
