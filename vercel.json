@@ -1,6 +1,7 @@
 {
-    "buildCommand": "cd dashboard && npm install && npx vite build",
-    "outputDirectory": "dashboard/dist",
-    "installCommand": "echo 'skip'",
+    "rootDirectory": "dashboard",
+    "buildCommand": "npm run build",
+    "outputDirectory": "dist",
+    "installCommand": "npm install",
     "framework": null
 }
